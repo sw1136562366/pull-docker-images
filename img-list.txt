@@ -1,4 +1,4 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/queue
+
 gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:792f6945c7bc73a49a470a5b955c39c8bd174705743abf5fb71aa0f4c04128eb
 index.docker.io/tensorflow/serving@sha256:f7e59a29cbc17a6b507751cddde37bccad4407c05ebf2c13b8e6ccb7d2e9affb
 gcr.io/kfserving/storage-initializer:0.2.2
